@@ -74,6 +74,8 @@ function displaymemes(){
     }
     var showThis = showThese[curMeme];
     document.getElementById("currmeme").src = showThis.img;
+    var tags = [showThis.tag1, showThis.tag2, showThis.tag3];
+    document.getElementById("tags").value= tags.toString();
     
 }
 
