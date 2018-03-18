@@ -13,4 +13,11 @@ Brian Casipit, Github: @motiveg
 
 Kristen Perez, Github: @KristinJunePerez
 
-Kyaw Tun, Github:
+Instructions:
+
+Download the code and open /Source\ Files/main.js Change the file paths of the 10 memes for demo purposes in the folder /Source\ Files/demoMemes
+Open the index.html file and use accordingly
+Add and delete triggers and see the memes change according to your triggers
+!!!Local Storage Errors occur when using on Safari. Please test on Chrome, Firefox, or Opera*!!!
+*not tested on internet explorer due to lack team members with windows computers
+
