@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Trigger Settings</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="main.js"></script>
+    </head>
+    <body>
+        <div id="newTrigger">
+            Enter your triggers here: <br>
+            <textarea id="newTrig"></textarea>
+            <a onclick="addTrigger()">add trigger</a>
+        </div>
+        <div id="oldTrigger">
+            Enter triggers you would like to remove from your trigger list here: <br>
+            <textarea id="oldTrig"></textarea>
+            <a onclick="removeTrigger()">remove trigger</a>
+        </div>
+        <div>
+            <p>Your trigger list:</p>
+            <textarea rows="10" cols="50" id="triggerList" readonly="readonly" onload="fillTriggerList()">
+        
+            </textarea>
+        </div>
+        <a href="index.html">back to Meme Medicine home page</a>
+    </body>
+</html>
