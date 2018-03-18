@@ -33,11 +33,11 @@ function getMemes(){
             for(j=0; j<triggers.length; j++)
             {
                 if(triggers[j]===memes[i].tag1){
-                    break;
+                    j=triggers.length;
                 }else if(triggers[j]===memes[i].tag2){
-                    break;
+                    j=triggers.length;
                 }else if(triggers[j]===memes[i].tag3){
-                    break;
+                    j=triggers.length;
                 }else{
                     if(j===(triggers.length-1)){
                         showThese.push(memes[i]);
