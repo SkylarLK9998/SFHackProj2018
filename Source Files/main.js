@@ -1,14 +1,14 @@
 /*10 sample memes for demo purposes*/
-var meme1 = {id: 1, tag1:"toothpaste", tag2:"vegetarian", tag3:"meat", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/1.jpg"};
-var meme2 = {id: 2, tag1:"traffic", tag2:"driving", tag3:"sunglasses", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/2.jpg"};
-var meme3 = {id: 3, tag1:"sex", tag2:"bug", tag3:"death", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/3.jpg"};
-var meme4 = {id: 4, tag1:"Trump", tag2:"bullying", tag3:"twitter", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/4.png"};
-var meme5 = {id: 5, tag1:"wizard", tag2:"swearing", tag3:"playstation", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/5.jpg"};
-var meme6 = {id: 6, tag1:"Computer Science", tag2:"Christmas", tag3:"single forever", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/6.jpg"};
-var meme7 = {id: 7, tag1:"wizard", tag2:"cursive", tag3:"demon", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/7.jpg"};
-var meme8 = {id: 8, tag1:"wizard", tag2:"Voldemort", tag3:"scar", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/8.jpg"};
-var meme9 = {id: 9, tag1:"stove", tag2:"food", tag3:"twitter", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/9.jpg"};
-var meme10 = {id: 10, tag1:"Trump", tag2:"twitter", tag3:"death", img:"/Users/skylarkrieger/SFHackProj2018/Source\ Files/demoMemes/10.jpg"};
+var meme1 = {id: 1, tag1:"toothpaste", tag2:"vegetarian", tag3:"meat", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/1.jpg"};
+var meme2 = {id: 2, tag1:"traffic", tag2:"driving", tag3:"sunglasses", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/2.jpg"};
+var meme3 = {id: 3, tag1:"sex", tag2:"bug", tag3:"death", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/3.jpg"};
+var meme4 = {id: 4, tag1:"Trump", tag2:"bullying", tag3:"twitter", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/4.jpg"};
+var meme5 = {id: 5, tag1:"wizard", tag2:"swearing", tag3:"playstation", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/5.jpg"};
+var meme6 = {id: 6, tag1:"Computer Science", tag2:"Christmas", tag3:"single forever", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/6.jpg"};
+var meme7 = {id: 7, tag1:"wizard", tag2:"cursive", tag3:"demon", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/7.jpg"};
+var meme8 = {id: 8, tag1:"wizard", tag2:"Voldemort", tag3:"scar", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/8.jpg"};
+var meme9 = {id: 9, tag1:"stove", tag2:"food", tag3:"twitter", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/9.jpg"};
+var meme10 = {id: 10, tag1:"Trump", tag2:"twitter", tag3:"death", img:"https://raw.githubusercontent.com/SkylarLK9998/SFHackProj2018/master/Source%20Files/demoMemes/10.jpg"};
 
 //memes is an array of unfiltered meme objects
 var memes = [meme1, meme2, meme3, meme4, meme5, meme6, meme7, meme8, meme9, meme10];
