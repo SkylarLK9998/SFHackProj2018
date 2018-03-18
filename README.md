@@ -6,6 +6,7 @@ Humor is the best medicine (or so my mother says) mememedicine.com is a humor ba
 http://mememedicine.com/
 
 created 3/17/18 by
+
 Skylar Krieger, Github: @SkylarLK9998
 
 Brian Casipit, Github: @motiveg
